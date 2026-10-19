@@ -1,1 +1,16 @@
-null
+{
+  "owner": null,
+  "settings": {
+    "welcome_stars": 5,
+    "ref_per_invite": 1,
+    "min_convert_ref": 30,
+    "min_withdraw_stars": 30,
+    "custom_min": 50,
+    "custom_max": 100,
+    "convert_rate": 1,
+    "force_join": false,
+    "channels": []
+  },
+  "users": {},
+  "orders": {}
+}
