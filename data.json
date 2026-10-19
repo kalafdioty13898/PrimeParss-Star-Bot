@@ -519,6 +519,17 @@
       "pending_ref": null,
       "joined": "2026-10-19 12:22:12",
       "banned": false
+    },
+    "8105500471": {
+      "id": 8105500471,
+      "name": "A",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 12:26:36",
+      "banned": false
     }
   },
   "orders": {}
