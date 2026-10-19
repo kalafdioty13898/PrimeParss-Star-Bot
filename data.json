@@ -948,6 +948,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 16:24:03",
       "banned": false
+    },
+    "8686675616": {
+      "id": 8686675616,
+      "name": "G",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 16:31:54",
+      "banned": false
+    },
+    "8714583849": {
+      "id": 8714583849,
+      "name": "Arin",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 16:32:32",
+      "banned": false
     }
   },
   "orders": {}
