@@ -596,6 +596,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 13:18:51",
       "banned": false
+    },
+    "8904649289": {
+      "id": 8904649289,
+      "name": "محمد",
+      "username": "Mhmmd138280",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 13:22:21",
+      "banned": false
     }
   },
   "orders": {}
