@@ -184,10 +184,21 @@
       "name": "𝕼𝖚𝖆𝖓𝖙𝖚𝖒",
       "username": "Forge_FF",
       "refs": 0,
-      "stars": 0,
-      "welcome_claimed": false,
+      "stars": 5,
+      "welcome_claimed": true,
       "pending_ref": null,
       "joined": "2026-10-19 10:37:30",
+      "banned": false
+    },
+    "5460866872": {
+      "id": 5460866872,
+      "name": "𝓜𝓪𝓱𝓭𝓲",
+      "username": "Esiiikhan",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 10:39:02",
       "banned": false
     }
   },
