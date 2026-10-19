@@ -552,6 +552,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 12:58:57",
       "banned": false
+    },
+    "8908175191": {
+      "id": 8908175191,
+      "name": "‌.",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 13:05:26",
+      "banned": false
     }
   },
   "orders": {}
