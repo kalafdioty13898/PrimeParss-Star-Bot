@@ -29,7 +29,7 @@
       "id": 8863525416,
       "name": "S",
       "username": "Setare_jjonz",
-      "refs": 3,
+      "refs": 4,
       "stars": 0,
       "welcome_claimed": false,
       "pending_ref": null,
@@ -1552,6 +1552,17 @@
       "welcome_claimed": false,
       "pending_ref": "8863525416",
       "joined": "2026-10-19 21:03:13",
+      "banned": false
+    },
+    "7767546607": {
+      "id": 7767546607,
+      "name": "یخمک",
+      "username": "Gilililililiil",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-19 21:21:07",
       "banned": false
     }
   },
