@@ -9,7 +9,9 @@
     "custom_max": 100,
     "convert_rate": 1,
     "force_join": true,
-    "channels": []
+    "channels": [
+      "@star_shop_vpn"
+    ]
   },
   "users": {
     "8581608010": {
@@ -32,6 +34,17 @@
       "welcome_claimed": false,
       "pending_ref": null,
       "joined": "2026-10-19 09:59:22",
+      "banned": false
+    },
+    "7277782872": {
+      "id": 7277782872,
+      "name": "God",
+      "username": "Wartoliiii",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 10:04:28",
       "banned": false
     }
   },
