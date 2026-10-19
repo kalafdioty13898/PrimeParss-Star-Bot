@@ -8,7 +8,7 @@
     "custom_min": 50,
     "custom_max": 100,
     "convert_rate": 1,
-    "force_join": false,
+    "force_join": true,
     "channels": []
   },
   "users": {
@@ -21,6 +21,17 @@
       "welcome_claimed": true,
       "pending_ref": null,
       "joined": "2026-10-19 09:22:42",
+      "banned": false
+    },
+    "8863525416": {
+      "id": 8863525416,
+      "name": "S",
+      "username": "Setare_jjonz",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-19 09:59:22",
       "banned": false
     }
   },
