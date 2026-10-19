@@ -244,6 +244,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 10:55:21",
       "banned": false
+    },
+    "7762230752": {
+      "id": 7762230752,
+      "name": "محمد",
+      "username": "mohammad_s17_s",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 11:00:08",
+      "banned": false
+    },
+    "8369878988": {
+      "id": 8369878988,
+      "name": ".......",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 11:00:34",
+      "banned": false
     }
   },
   "orders": {}
