@@ -1190,6 +1190,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 18:36:54",
       "banned": false
+    },
+    "8950581775": {
+      "id": 8950581775,
+      "name": "Difo",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 18:40:29",
+      "banned": false
     }
   },
   "orders": {}
