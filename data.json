@@ -29,7 +29,7 @@
       "id": 8863525416,
       "name": "S",
       "username": "Setare_jjonz",
-      "refs": 1,
+      "refs": 2,
       "stars": 0,
       "welcome_claimed": false,
       "pending_ref": null,
@@ -516,7 +516,7 @@
       "refs": 0,
       "stars": 0,
       "welcome_claimed": false,
-      "pending_ref": "8863525416",
+      "pending_ref": null,
       "joined": "2026-10-19 12:22:12",
       "banned": false
     }
