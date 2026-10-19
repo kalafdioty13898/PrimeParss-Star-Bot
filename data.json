@@ -1168,6 +1168,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 18:32:42",
       "banned": false
+    },
+    "6305634987": {
+      "id": 6305634987,
+      "name": "Salar",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 18:36:08",
+      "banned": false
     }
   },
   "orders": {}
