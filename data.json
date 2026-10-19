@@ -1476,6 +1476,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 20:29:43",
       "banned": false
+    },
+    "7128371657": {
+      "id": 7128371657,
+      "name": "❤",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 20:34:28",
+      "banned": false
+    },
+    "7324281276": {
+      "id": 7324281276,
+      "name": "M",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 20:34:29",
+      "banned": false
     }
   },
   "orders": {}
