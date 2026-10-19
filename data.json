@@ -1773,6 +1773,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 23:40:27",
       "banned": false
+    },
+    "6115886296": {
+      "id": 6115886296,
+      "name": "Mahyar",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 23:46:23",
+      "banned": false
     }
   },
   "orders": {}
