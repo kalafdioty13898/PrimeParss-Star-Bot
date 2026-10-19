@@ -1201,6 +1201,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 18:40:29",
       "banned": false
+    },
+    "95605667": {
+      "id": 95605667,
+      "name": "Arzhin",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 18:44:29",
+      "banned": false
     }
   },
   "orders": {}
