@@ -486,6 +486,17 @@
       "pending_ref": null,
       "joined": "2026-10-19 11:46:30",
       "banned": false
+    },
+    "5481346450": {
+      "id": 5481346450,
+      "name": "𝒜𝓂𝒾𝓇",
+      "username": "changesali",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 11:53:48",
+      "banned": false
     }
   },
   "orders": {}
