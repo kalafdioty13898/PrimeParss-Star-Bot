@@ -101,6 +101,17 @@
       "pending_ref": null,
       "joined": "2026-10-19 10:20:24",
       "banned": false
+    },
+    "8348427533": {
+      "id": 8348427533,
+      "name": "Faread",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 10:25:14",
+      "banned": false
     }
   },
   "orders": {}
