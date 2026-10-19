@@ -1157,6 +1157,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 18:24:36",
       "banned": false
+    },
+    "7533709416": {
+      "id": 7533709416,
+      "name": "Amir",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 18:32:42",
+      "banned": false
     }
   },
   "orders": {}
