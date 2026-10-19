@@ -1740,6 +1740,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 22:55:19",
       "banned": false
+    },
+    "7331857041": {
+      "id": 7331857041,
+      "name": "Doctor",
+      "username": "ppslsmm",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 23:09:31",
+      "banned": false
     }
   },
   "orders": {}
