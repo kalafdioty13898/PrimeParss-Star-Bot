@@ -794,6 +794,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 14:31:30",
       "banned": false
+    },
+    "7085790028": {
+      "id": 7085790028,
+      "name": "Kazem N",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 14:52:08",
+      "banned": false
     }
   },
   "orders": {}
