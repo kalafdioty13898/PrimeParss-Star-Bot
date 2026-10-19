@@ -1509,6 +1509,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 20:35:51",
       "banned": false
+    },
+    "8002529061": {
+      "id": 8002529061,
+      "name": "Sajad",
+      "username": "Sajy88885",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 20:41:38",
+      "banned": false
     }
   },
   "orders": {}
