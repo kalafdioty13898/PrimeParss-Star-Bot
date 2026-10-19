@@ -1366,6 +1366,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 19:46:15",
       "banned": false
+    },
+    "8621865659": {
+      "id": 8621865659,
+      "name": ".",
+      "username": "ffhjklnc",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 19:52:34",
+      "banned": false
     }
   },
   "orders": {}
