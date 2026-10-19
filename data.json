@@ -11,6 +11,18 @@
     "force_join": false,
     "channels": []
   },
-  "users": {},
+  "users": {
+    "8581608010": {
+      "id": 8581608010,
+      "name": "𐎶𐏃𐎭𐎡",
+      "username": "Pahlavi_mahdi",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-19 09:22:42",
+      "banned": false
+    }
+  },
   "orders": {}
 }
