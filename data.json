@@ -29,7 +29,7 @@
       "id": 8863525416,
       "name": "S",
       "username": "Setare_jjonz",
-      "refs": 0,
+      "refs": 1,
       "stars": 0,
       "welcome_claimed": false,
       "pending_ref": null,
@@ -89,6 +89,17 @@
       "welcome_claimed": false,
       "pending_ref": "8863525416",
       "joined": "2026-10-19 10:13:27",
+      "banned": false
+    },
+    "8783745551": {
+      "id": 8783745551,
+      "name": "‌ ‌ ‌ ‌ ‌⁪‌‌ ‌ ‌ ‌ ‌ ‌ ‌𝗆𝖺𝗋𝗏ı𝗇",
+      "username": "Spnrv",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-19 10:20:24",
       "banned": false
     }
   },
