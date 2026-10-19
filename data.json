@@ -1333,6 +1333,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 19:37:33",
       "banned": false
+    },
+    "8498284822": {
+      "id": 8498284822,
+      "name": "حسین",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 19:38:45",
+      "banned": false
+    },
+    "6319153747": {
+      "id": 6319153747,
+      "name": "Ashkan",
+      "username": "Hig_ash",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 19:39:10",
+      "banned": false
     }
   },
   "orders": {}
