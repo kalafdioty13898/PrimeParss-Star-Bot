@@ -3,7 +3,7 @@
   "settings": {
     "welcome_stars": 5,
     "ref_per_invite": 1,
-    "min_convert_ref": 30,
+    "min_convert_ref": 50,
     "min_withdraw_stars": 30,
     "custom_min": 50,
     "custom_max": 100,
