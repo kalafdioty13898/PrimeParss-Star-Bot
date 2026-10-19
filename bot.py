@@ -39,12 +39,15 @@ def kb(rows):
 
 
 def main_menu_kb():
-    return kb([
-        [("👥 زیرمجموعه گیری", "m:refs"), ("⭐️ استارز رایگان", "m:free")],
-        [("🔄 تبدیل رفرال ها به استارز", "m:conv")],
-        [("📊 تعداد رفرال های من", "m:myrefs"), ("📚 اموزش دریافت استارز", "m:tut")],
-        [("💌 پشتیبانی", "m:sup")],
-    ])
+    """منوی اصلی به صورت کیبورد پایین چت (Reply Keyboard) — هم موبایل هم دسکتاپ."""
+    m = types.ReplyKeyboardMarkup(resize_keyboard=True, is_persistent=True,
+                                  input_field_placeholder="از منوی زیر انتخاب کن 👇")
+    m.row(types.KeyboardButton("👥 زیرمجموعه گیری"), types.KeyboardButton("⭐️ استارز رایگان"))
+    m.row(types.KeyboardButton("🔄 تبدیل رفرال ها به استارز"))
+    m.row(types.KeyboardButton("📊 تعداد رفرال های من"),
+          types.KeyboardButton("📚 اموزش دریافت استارز"))
+    m.row(types.KeyboardButton("💌 پشتیبانی"))
+    return m
 
 
 def back_menu_kb():
@@ -114,12 +117,17 @@ def show_menu(chat_id, uid, text=None):
 
 
 def refresh(c, text, markup):
-    """پیام قبلی را پاک می‌کند و پیام جدید می‌فرستد."""
+    """پیام قبلی را پاک می‌کند و پیام جدید می‌فرستد.
+    c هم CallbackQuery (دکمه شیشه‌ای) و هم Message (لمس دکمه کیبوردی) را پشتیبانی می‌کند."""
+    chat_id = c.message.chat.id if hasattr(c, "data") else c.chat.id
     try:
-        BOT.delete_message(c.message.chat.id, c.message.message_id)
+        if hasattr(c, "data"):  # CallbackQuery → پاک کردن پیام حاوی دکمه
+            BOT.delete_message(chat_id, c.message.message_id)
+        else:  # Message (متنِ دکمه کیبورد) → پاک کردن خودِ متن لمس‌شده
+            BOT.delete_message(chat_id, c.message_id)
     except Exception:
         pass
-    BOT.send_message(c.message.chat.id, text, reply_markup=markup,
+    BOT.send_message(chat_id, text, reply_markup=markup,
                      disable_web_page_preview=True)
 
 
@@ -219,6 +227,53 @@ def cmd_id(m):
     BOT.reply_to(m, f"🆔 ایدی عددی شما: <code>{m.from_user.id}</code>")
 
 
+# ═══════════ دکمه‌های کیبورد پایین چت (Reply Keyboard) ═══════════
+MENU_BTNS = {
+    "👥 زیرمجموعه گیری": "m:refs",
+    "⭐️ استارز رایگان": "m:free",
+    "🔄 تبدیل رفرال ها به استارز": "m:conv",
+    "📊 تعداد رفرال های من": "m:myrefs",
+    "📚 اموزش دریافت استارز": "m:tut",
+    "💌 پشتیبانی": "m:sup",
+}
+
+
+@BOT.message_handler(func=lambda m: (m.text or "") in MENU_BTNS)
+def kb_menu_router(m):
+    """لمس دکمه‌های پایین چت → باز شدن همان بخش منو (از هر حالتی مثل پشتیبانی هم خارج می‌شود).
+    ⚠️ این هندلر باید قبل از همه‌ی هندلرهای state ثبت شود."""
+    uid = m.from_user.id
+    u = storage.get_user(uid)
+    if u and u.get("banned") and not is_admin(uid):
+        BOT.reply_to(m, config.TEXTS["banned"])
+        return
+    if needs_join(uid):
+        BOT.send_message(m.chat.id, config.TEXTS["joined_needed"], reply_markup=join_kb())
+        return
+    STATE.pop(uid, None)
+    route_kb_action(m, MENU_BTNS[m.text])
+
+
+def route_kb_action(m, data):
+    """همان بخش‌های منو، اما از مسیر پیام متنی (دکمه‌های کیبوردی)."""
+    uid = m.from_user.id
+    if data == "m:refs":
+        section_refs(m)
+    elif data == "m:free":
+        section_free(m)
+    elif data == "m:conv":
+        section_convert(m)
+    elif data == "m:tut":
+        show_tutorial(m)
+    elif data == "m:myrefs":
+        show_myrefs(m)
+    elif data == "m:sup":
+        STATE[uid] = "support"
+        refresh(m, config.TEXTS["support_intro"], kb([[("❌ لغو", "m:back")]]))
+    else:
+        refresh(m, menu_text(uid), main_menu_kb())
+
+
 # ═════════════════════════ روتر دکمه‌های شیشه‌ای ═════════════════════════
 @BOT.callback_query_handler(func=lambda c: True)
 def cb_router(c):
@@ -278,17 +333,10 @@ def route_cb(c, data):
         section_refs(c)
 
     elif data == "m:tut":
-        refresh(c, config.TEXTS["tutorial"].format(
-            per=storage.get_setting("ref_per_invite"),
-            min=storage.get_setting("min_convert_ref"),
-            wel=storage.get_setting("welcome_stars"),
-            wd=storage.get_setting("min_withdraw_stars")), back_menu_kb())
+        show_tutorial(c)
 
     elif data == "m:myrefs":
-        u = storage.get_user(uid) or {}
-        refresh(c, config.TEXTS["my_refs"].format(
-            uid=uid, name=esc(u.get("name")),
-            refs=u.get("refs", 0), stars=u.get("stars", 0)), back_menu_kb())
+        show_myrefs(c)
 
     elif data == "m:sup":
         STATE[uid] = "support"
@@ -347,6 +395,22 @@ def route_cb(c, data):
 
 
 # ═════════════════════════ بخش‌های کاربری ═════════════════════════
+def show_tutorial(c):
+    refresh(c, config.TEXTS["tutorial"].format(
+        per=storage.get_setting("ref_per_invite"),
+        min=storage.get_setting("min_convert_ref"),
+        wel=storage.get_setting("welcome_stars"),
+        wd=storage.get_setting("min_withdraw_stars")), back_menu_kb())
+
+
+def show_myrefs(c):
+    uid = c.from_user.id
+    u = storage.get_user(uid) or {}
+    refresh(c, config.TEXTS["my_refs"].format(
+        uid=uid, name=esc(u.get("name")),
+        refs=u.get("refs", 0), stars=u.get("stars", 0)), back_menu_kb())
+
+
 def section_refs(c):
     uid = c.from_user.id
     u = storage.get_user(uid) or {}
@@ -554,7 +618,8 @@ def handle_custom_convert(m):
 
 
 # پیام معمولی بدون حالت → نمایش منو
-@BOT.message_handler(func=lambda m: True,
+# 🛡 پیام‌هایی که با / شروع می‌شوند (دستورها مثل /panel) رد می‌شوند تا به هندلر خودشان برسند
+@BOT.message_handler(func=lambda m: not (m.text or "").startswith("/"),
                      content_types=["text", "photo", "video", "video_note", "document",
                                     "audio", "voice", "animation", "sticker"])
 def fallback(m):
