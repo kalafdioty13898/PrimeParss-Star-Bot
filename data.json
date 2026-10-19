@@ -1443,6 +1443,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 20:22:35",
       "banned": false
+    },
+    "8967545981": {
+      "id": 8967545981,
+      "name": "Ayka",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 20:25:12",
+      "banned": false
     }
   },
   "orders": {}
