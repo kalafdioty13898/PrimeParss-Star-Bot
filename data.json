@@ -1399,6 +1399,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 20:12:47",
       "banned": false
+    },
+    "8916982554": {
+      "id": 8916982554,
+      "name": "Lucifer",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 20:19:08",
+      "banned": false
+    },
+    "7120879061": {
+      "id": 7120879061,
+      "name": ".",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 20:19:44",
+      "banned": false
     }
   },
   "orders": {}
