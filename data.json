@@ -387,6 +387,50 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 11:35:19",
       "banned": false
+    },
+    "8810684989": {
+      "id": 8810684989,
+      "name": "ÒŵŊĤəŕo",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-19 11:36:28",
+      "banned": false
+    },
+    "7025345929": {
+      "id": 7025345929,
+      "name": ".",
+      "username": "nsnsneke333",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 11:36:49",
+      "banned": false
+    },
+    "6505609132": {
+      "id": 6505609132,
+      "name": "امیر",
+      "username": "adolf_collections",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 11:36:53",
+      "banned": false
+    },
+    "5115490749": {
+      "id": 5115490749,
+      "name": "Mohammad🐺",
+      "username": "Mohammad_Matador33",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 11:37:21",
+      "banned": false
     }
   },
   "orders": {}
