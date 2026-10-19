@@ -156,6 +156,39 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 10:35:23",
       "banned": false
+    },
+    "180404517": {
+      "id": 180404517,
+      "name": "Donald",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 10:36:58",
+      "banned": false
+    },
+    "6388467021": {
+      "id": 6388467021,
+      "name": "ƳƛȤƊƛƝ",
+      "username": "Yazdan1900YF",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 10:37:04",
+      "banned": false
+    },
+    "8729948707": {
+      "id": 8729948707,
+      "name": "𝕼𝖚𝖆𝖓𝖙𝖚𝖒",
+      "username": "Forge_FF",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-19 10:37:30",
+      "banned": false
     }
   },
   "orders": {}
