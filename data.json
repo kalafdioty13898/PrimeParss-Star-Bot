@@ -1520,6 +1520,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 20:41:38",
       "banned": false
+    },
+    "8905139432": {
+      "id": 8905139432,
+      "name": "ho",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 20:43:17",
+      "banned": false
     }
   },
   "orders": {}
