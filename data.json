@@ -574,6 +574,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 13:06:54",
       "banned": false
+    },
+    "8097027095": {
+      "id": 8097027095,
+      "name": "t.m",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 13:17:15",
+      "banned": false
     }
   },
   "orders": {}
