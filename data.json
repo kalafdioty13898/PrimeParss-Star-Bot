@@ -1674,6 +1674,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 22:22:40",
       "banned": false
+    },
+    "7088204793": {
+      "id": 7088204793,
+      "name": "M&H",
+      "username": "Abadan79200",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 22:33:00",
+      "banned": false
     }
   },
   "orders": {}
