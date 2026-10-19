@@ -1762,6 +1762,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 23:20:36",
       "banned": false
+    },
+    "6617890321": {
+      "id": 6617890321,
+      "name": "Yooo",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 23:40:27",
+      "banned": false
     }
   },
   "orders": {}
