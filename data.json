@@ -640,6 +640,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 13:45:31",
       "banned": false
+    },
+    "6703211571": {
+      "id": 6703211571,
+      "name": "رضا",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 13:47:54",
+      "banned": false
     }
   },
   "orders": {}
