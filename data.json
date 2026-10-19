@@ -46,6 +46,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 10:04:28",
       "banned": false
+    },
+    "8579209342": {
+      "id": 8579209342,
+      "name": "اس",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 10:07:00",
+      "banned": false
     }
   },
   "orders": {}
