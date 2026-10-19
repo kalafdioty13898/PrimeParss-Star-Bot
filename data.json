@@ -29,7 +29,7 @@
       "id": 8863525416,
       "name": "S",
       "username": "Setare_jjonz",
-      "refs": 2,
+      "refs": 3,
       "stars": 0,
       "welcome_claimed": false,
       "pending_ref": null,
@@ -1101,6 +1101,28 @@
       "welcome_claimed": false,
       "pending_ref": "8863525416",
       "joined": "2026-10-19 17:58:11",
+      "banned": false
+    },
+    "8958359903": {
+      "id": 8958359903,
+      "name": ".",
+      "username": "VYRO_CONFIG",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-19 18:12:05",
+      "banned": false
+    },
+    "6759372861": {
+      "id": 6759372861,
+      "name": ".",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 18:13:19",
       "banned": false
     }
   },
