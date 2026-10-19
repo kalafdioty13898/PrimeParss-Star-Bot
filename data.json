@@ -1652,6 +1652,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 22:08:09",
       "banned": false
+    },
+    "6364005123": {
+      "id": 6364005123,
+      "name": "𝒶𝓂𝒾𝓇",
+      "username": "Amirrr3454",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 22:22:30",
+      "banned": false
+    },
+    "8448178717": {
+      "id": 8448178717,
+      "name": "علیرضا",
+      "username": "ali_khalaf_1386",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 22:22:40",
+      "banned": false
     }
   },
   "orders": {}
