@@ -1575,6 +1575,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 21:34:21",
       "banned": false
+    },
+    "8739250516": {
+      "id": 8739250516,
+      "name": "یآزده",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 21:37:40",
+      "banned": false
     }
   },
   "orders": {}
