@@ -977,6 +977,7 @@ def main():
     except ApiTelegramException as e:
         print("❌ توکن نامعتبر است:", e)
         return
+    storage.load()  # 🛡 اول دیتا را از فایل بخوان تا هیچ‌وقت مقدار خالی ذخیره نشود
     storage.start_autosave()
     signal.signal(signal.SIGTERM, _shutdown)
     signal.signal(signal.SIGINT, _shutdown)
