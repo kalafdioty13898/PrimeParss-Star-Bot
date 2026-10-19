@@ -1564,6 +1564,17 @@
       "pending_ref": null,
       "joined": "2026-10-19 21:21:07",
       "banned": false
+    },
+    "5472277415": {
+      "id": 5472277415,
+      "name": "M",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 21:34:21",
+      "banned": false
     }
   },
   "orders": {}
