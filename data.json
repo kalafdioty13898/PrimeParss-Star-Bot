@@ -1377,6 +1377,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 19:52:34",
       "banned": false
+    },
+    "8961686963": {
+      "id": 8961686963,
+      "name": "محمد",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 20:07:07",
+      "banned": false
     }
   },
   "orders": {}
