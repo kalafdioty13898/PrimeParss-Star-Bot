@@ -805,6 +805,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 14:52:08",
       "banned": false
+    },
+    "5231215843": {
+      "id": 5231215843,
+      "name": "kavyan",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 15:02:08",
+      "banned": false
     }
   },
   "orders": {}
