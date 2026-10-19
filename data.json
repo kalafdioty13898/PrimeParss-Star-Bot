@@ -68,6 +68,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-19 10:08:29",
       "banned": false
+    },
+    "167179622": {
+      "id": 167179622,
+      "name": "A",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-19 10:09:53",
+      "banned": false
     }
   },
   "orders": {}
