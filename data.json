@@ -2763,6 +2763,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 12:11:44",
       "banned": false
+    },
+    "8729175748": {
+      "id": 8729175748,
+      "name": "اَمیر ،",
+      "username": "eMirw98",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 12:13:32",
+      "banned": false
+    },
+    "7325816547": {
+      "id": 7325816547,
+      "name": "Mamali",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 12:14:29",
+      "banned": false
     }
   },
   "orders": {}
