@@ -2147,6 +2147,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 08:16:26",
       "banned": false
+    },
+    "8345960737": {
+      "id": 8345960737,
+      "name": ".",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 08:25:03",
+      "banned": false
     }
   },
   "orders": {}
