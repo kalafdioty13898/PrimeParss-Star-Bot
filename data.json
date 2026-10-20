@@ -1795,6 +1795,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 00:03:48",
       "banned": false
+    },
+    "5791623877": {
+      "id": 5791623877,
+      "name": "Mahdi",
+      "username": "Mahdi_8494",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 00:18:55",
+      "banned": false
     }
   },
   "orders": {}
