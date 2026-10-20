@@ -1960,6 +1960,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 05:28:42",
       "banned": false
+    },
+    "7421257681": {
+      "id": 7421257681,
+      "name": "crazyman",
+      "username": "crazyman_leo",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 05:29:32",
+      "banned": false
     }
   },
   "orders": {}
