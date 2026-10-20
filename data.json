@@ -2807,6 +2807,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 12:23:22",
       "banned": false
+    },
+    "6277971723": {
+      "id": 6277971723,
+      "name": "$эпи",
+      "username": "Brazen10",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 12:30:12",
+      "banned": false
     }
   },
   "orders": {}
