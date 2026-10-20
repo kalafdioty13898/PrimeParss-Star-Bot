@@ -2873,6 +2873,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 12:49:05",
       "banned": false
+    },
+    "8335788058": {
+      "id": 8335788058,
+      "name": "amir",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 12:55:07",
+      "banned": false
     }
   },
   "orders": {}
