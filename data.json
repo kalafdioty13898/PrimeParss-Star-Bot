@@ -3170,6 +3170,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 17:31:32",
       "banned": false
+    },
+    "7979861473": {
+      "id": 7979861473,
+      "name": "-RealGod",
+      "username": "RealGod0",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 17:46:21",
+      "banned": false
     }
   },
   "orders": {}
