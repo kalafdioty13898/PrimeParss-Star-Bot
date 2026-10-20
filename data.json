@@ -3115,6 +3115,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 16:12:27",
       "banned": false
+    },
+    "7289432798": {
+      "id": 7289432798,
+      "name": "Radin",
+      "username": "Raadin87",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 16:20:56",
+      "banned": false
     }
   },
   "orders": {}
