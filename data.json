@@ -2543,6 +2543,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 10:30:15",
       "banned": false
+    },
+    "8165738119": {
+      "id": 8165738119,
+      "name": "L",
+      "username": "Da5dr",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 10:34:11",
+      "banned": false
     }
   },
   "orders": {}
