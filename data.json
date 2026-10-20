@@ -1839,6 +1839,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 03:43:07",
       "banned": false
+    },
+    "6010163715": {
+      "id": 6010163715,
+      "name": "Ma",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 04:03:00",
+      "banned": false
     }
   },
   "orders": {}
