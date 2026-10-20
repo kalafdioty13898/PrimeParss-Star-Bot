@@ -3060,6 +3060,17 @@
       "pending_ref": null,
       "joined": "2026-10-20 14:52:04",
       "banned": false
+    },
+    "6959148163": {
+      "id": 6959148163,
+      "name": "Ss",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 15:38:36",
+      "banned": false
     }
   },
   "orders": {}
