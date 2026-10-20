@@ -2917,6 +2917,39 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 13:17:34",
       "banned": false
+    },
+    "6725802503": {
+      "id": 6725802503,
+      "name": "Meli",
+      "username": "Naminota",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 13:21:44",
+      "banned": false
+    },
+    "8694138347": {
+      "id": 8694138347,
+      "name": "aaaa",
+      "username": "aaaallllliiiii1",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 13:22:09",
+      "banned": false
+    },
+    "8871742104": {
+      "id": 8871742104,
+      "name": "Mir86",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 13:22:51",
+      "banned": false
     }
   },
   "orders": {}
