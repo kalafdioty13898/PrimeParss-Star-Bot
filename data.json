@@ -2697,6 +2697,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 11:52:02",
       "banned": false
+    },
+    "7962303094": {
+      "id": 7962303094,
+      "name": "SS",
+      "username": "Est_men_gh",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 11:55:47",
+      "banned": false
     }
   },
   "orders": {}
