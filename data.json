@@ -3390,6 +3390,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 21:14:20",
       "banned": false
+    },
+    "6755772801": {
+      "id": 6755772801,
+      "name": "Dave",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 21:21:13",
+      "banned": false
     }
   },
   "orders": {}
