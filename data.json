@@ -3412,6 +3412,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 21:30:35",
       "banned": false
+    },
+    "8280309307": {
+      "id": 8280309307,
+      "name": "Key",
+      "username": "Naveek4444",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 21:35:10",
+      "banned": false
     }
   },
   "orders": {}
