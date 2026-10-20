@@ -29,7 +29,7 @@
       "id": 8863525416,
       "name": "S",
       "username": "Setare_jjonz",
-      "refs": 4,
+      "refs": 5,
       "stars": 0,
       "welcome_claimed": false,
       "pending_ref": null,
@@ -2278,6 +2278,17 @@
       "welcome_claimed": false,
       "pending_ref": "8863525416",
       "joined": "2026-10-20 09:37:00",
+      "banned": false
+    },
+    "610496059": {
+      "id": 610496059,
+      "name": "Tohid",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-20 09:38:46",
       "banned": false
     }
   },
