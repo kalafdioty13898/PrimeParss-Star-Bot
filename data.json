@@ -2818,6 +2818,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 12:30:12",
       "banned": false
+    },
+    "7563474571": {
+      "id": 7563474571,
+      "name": "🦭",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 12:32:05",
+      "banned": false
     }
   },
   "orders": {}
