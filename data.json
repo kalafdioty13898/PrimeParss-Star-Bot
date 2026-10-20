@@ -2400,6 +2400,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 09:59:07",
       "banned": false
+    },
+    "8536547443": {
+      "id": 8536547443,
+      "name": "S̶a̶n̶a̶",
+      "username": "Sanio_ert",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 10:05:59",
+      "banned": false
+    },
+    "8678498238": {
+      "id": 8678498238,
+      "name": "A",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 10:06:01",
+      "banned": false
     }
   },
   "orders": {}
