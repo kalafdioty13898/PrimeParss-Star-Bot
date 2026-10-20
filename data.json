@@ -1927,6 +1927,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 05:13:39",
       "banned": false
+    },
+    "7136345934": {
+      "id": 7136345934,
+      "name": "PSA",
+      "username": "PsaAA1",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 05:19:07",
+      "banned": false
     }
   },
   "orders": {}
