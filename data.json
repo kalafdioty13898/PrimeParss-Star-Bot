@@ -2158,6 +2158,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 08:25:03",
       "banned": false
+    },
+    "7162067261": {
+      "id": 7162067261,
+      "name": "Wolf",
+      "username": "Kaksoskuuu",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 08:39:58",
+      "banned": false
     }
   },
   "orders": {}
