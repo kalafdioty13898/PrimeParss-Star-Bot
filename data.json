@@ -2081,6 +2081,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 07:31:05",
       "banned": false
+    },
+    "8848725989": {
+      "id": 8848725989,
+      "name": "Sahar",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 07:33:28",
+      "banned": false
     }
   },
   "orders": {}
