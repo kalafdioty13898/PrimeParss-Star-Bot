@@ -1861,6 +1861,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 04:04:56",
       "banned": false
+    },
+    "1419401227": {
+      "id": 1419401227,
+      "name": "mahan",
+      "username": "Sporti_Bert",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 04:37:16",
+      "banned": false
     }
   },
   "orders": {}
