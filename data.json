@@ -2290,6 +2290,17 @@
       "pending_ref": null,
       "joined": "2026-10-20 09:38:46",
       "banned": false
+    },
+    "6907710944": {
+      "id": 6907710944,
+      "name": "M",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 09:44:13",
+      "banned": false
     }
   },
   "orders": {}
