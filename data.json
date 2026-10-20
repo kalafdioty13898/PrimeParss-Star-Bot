@@ -3522,6 +3522,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 22:21:01",
       "banned": false
+    },
+    "8826251385": {
+      "id": 8826251385,
+      "name": "Zahra",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 22:37:22",
+      "banned": false
     }
   },
   "orders": {}
