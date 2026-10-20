@@ -3225,6 +3225,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 19:31:58",
       "banned": false
+    },
+    "7843330677": {
+      "id": 7843330677,
+      "name": "Js",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 19:45:06",
+      "banned": false
     }
   },
   "orders": {}
