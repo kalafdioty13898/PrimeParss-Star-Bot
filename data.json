@@ -1883,6 +1883,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 04:44:02",
       "banned": false
+    },
+    "133306942": {
+      "id": 133306942,
+      "name": "Naghshbandi Hosaien",
+      "username": "Naghshbandi",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 04:51:29",
+      "banned": false
     }
   },
   "orders": {}
