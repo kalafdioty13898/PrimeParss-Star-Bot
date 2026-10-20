@@ -3544,6 +3544,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 22:42:53",
       "banned": false
+    },
+    "8542277827": {
+      "id": 8542277827,
+      "name": ".",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 22:52:31",
+      "banned": false
+    },
+    "7260426550": {
+      "id": 7260426550,
+      "name": "Beni",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 22:53:54",
+      "banned": false
     }
   },
   "orders": {}
