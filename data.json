@@ -3049,6 +3049,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-20 14:44:02",
       "banned": false
+    },
+    "6034021969": {
+      "id": 6034021969,
+      "name": "Amirali",
+      "username": "VBAZ4",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-20 14:52:04",
+      "banned": false
     }
   },
   "orders": {}
