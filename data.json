@@ -3676,6 +3676,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 02:06:45",
       "banned": false
+    },
+    "100085051": {
+      "id": 100085051,
+      "name": "Måhđï",
+      "username": "Mahdi_shahidi1",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 02:10:52",
+      "banned": false
     }
   },
   "orders": {}
