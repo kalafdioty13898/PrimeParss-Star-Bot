@@ -5216,6 +5216,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 22:05:19",
       "banned": false
+    },
+    "1745059340": {
+      "id": 1745059340,
+      "name": "امیر",
+      "username": "Abnskdnl",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 22:08:21",
+      "banned": false
     }
   },
   "orders": {}
