@@ -5095,6 +5095,39 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 21:50:04",
       "banned": false
+    },
+    "8978603669": {
+      "id": 8978603669,
+      "name": ".",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:50:40",
+      "banned": false
+    },
+    "8693291113": {
+      "id": 8693291113,
+      "name": "J",
+      "username": "Arslag",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:50:55",
+      "banned": false
+    },
+    "5875610440": {
+      "id": 5875610440,
+      "name": "S",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:52:18",
+      "banned": false
     }
   },
   "orders": {}
