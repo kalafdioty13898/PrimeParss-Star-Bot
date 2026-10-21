@@ -4270,6 +4270,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 16:47:49",
       "banned": false
+    },
+    "8843537732": {
+      "id": 8843537732,
+      "name": "Jack sparrow",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 17:57:29",
+      "banned": false
     }
   },
   "orders": {}
