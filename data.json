@@ -4226,6 +4226,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 14:23:36",
       "banned": false
+    },
+    "8240043388": {
+      "id": 8240043388,
+      "name": "Poya",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 14:49:41",
+      "banned": false
     }
   },
   "orders": {}
