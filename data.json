@@ -3863,6 +3863,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 09:18:16",
       "banned": false
+    },
+    "871485077": {
+      "id": 871485077,
+      "name": "Aa",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 09:26:17",
+      "banned": false
     }
   },
   "orders": {}
