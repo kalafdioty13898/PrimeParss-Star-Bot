@@ -4281,6 +4281,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 17:57:29",
       "banned": false
+    },
+    "5940372363": {
+      "id": 5940372363,
+      "name": "SAEED",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 18:01:07",
+      "banned": false
     }
   },
   "orders": {}
