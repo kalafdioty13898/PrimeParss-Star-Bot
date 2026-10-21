@@ -4160,6 +4160,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 13:42:50",
       "banned": false
+    },
+    "7824294996": {
+      "id": 7824294996,
+      "name": "Deleted Account",
+      "username": "SUUUUUUUUE",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 13:46:50",
+      "banned": false
     }
   },
   "orders": {}
