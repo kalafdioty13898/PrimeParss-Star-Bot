@@ -5403,6 +5403,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 23:30:28",
       "banned": false
+    },
+    "8809743884": {
+      "id": 8809743884,
+      "name": "A",
+      "username": "hajdkg",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 23:38:21",
+      "banned": false
     }
   },
   "orders": {}
