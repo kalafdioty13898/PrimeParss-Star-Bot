@@ -4479,6 +4479,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 20:29:24",
       "banned": false
+    },
+    "8961489474": {
+      "id": 8961489474,
+      "name": ".",
+      "username": "Master0000heb",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 20:35:27",
+      "banned": false
     }
   },
   "orders": {}
