@@ -4050,6 +4050,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 12:03:45",
       "banned": false
+    },
+    "8877492551": {
+      "id": 8877492551,
+      "name": "74091",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 12:08:19",
+      "banned": false
     }
   },
   "orders": {}
