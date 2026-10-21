@@ -5260,6 +5260,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 22:14:20",
       "banned": false
+    },
+    "6665912699": {
+      "id": 6665912699,
+      "name": "عرفان",
+      "username": "Erfanererer",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 22:15:05",
+      "banned": false
     }
   },
   "orders": {}
