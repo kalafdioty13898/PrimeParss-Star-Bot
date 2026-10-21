@@ -4138,6 +4138,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 13:01:59",
       "banned": false
+    },
+    "7421900690": {
+      "id": 7421900690,
+      "name": "K",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 13:37:18",
+      "banned": false
     }
   },
   "orders": {}
