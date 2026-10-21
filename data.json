@@ -3918,6 +3918,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 09:56:19",
       "banned": false
+    },
+    "8753368024": {
+      "id": 8753368024,
+      "name": "lucas",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 10:12:18",
+      "banned": false
     }
   },
   "orders": {}
