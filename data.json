@@ -3841,6 +3841,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 07:29:47",
       "banned": false
+    },
+    "267798374": {
+      "id": 267798374,
+      "name": "Ak",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 08:40:49",
+      "banned": false
     }
   },
   "orders": {}
