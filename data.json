@@ -3819,6 +3819,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 06:11:32",
       "banned": false
+    },
+    "5433493970": {
+      "id": 5433493970,
+      "name": "amir",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 07:09:27",
+      "banned": false
     }
   },
   "orders": {}
