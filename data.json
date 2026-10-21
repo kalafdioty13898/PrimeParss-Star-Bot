@@ -5007,6 +5007,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 21:42:17",
       "banned": false
+    },
+    "8493681577": {
+      "id": 8493681577,
+      "name": "امیر",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:44:52",
+      "banned": false
+    },
+    "138817190": {
+      "id": 138817190,
+      "name": "تاری",
+      "username": "Shekarghean",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:45:29",
+      "banned": false
     }
   },
   "orders": {}
