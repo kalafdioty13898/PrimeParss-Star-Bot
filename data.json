@@ -4633,6 +4633,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 20:59:40",
       "banned": false
+    },
+    "6185502355": {
+      "id": 6185502355,
+      "name": "🌒",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:00:12",
+      "banned": false
     }
   },
   "orders": {}
