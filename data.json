@@ -3940,6 +3940,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 10:22:57",
       "banned": false
+    },
+    "1334200514": {
+      "id": 1334200514,
+      "name": "Ba",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 10:39:34",
+      "banned": false
     }
   },
   "orders": {}
