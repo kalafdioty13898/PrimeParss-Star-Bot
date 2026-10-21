@@ -3984,6 +3984,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 11:07:16",
       "banned": false
+    },
+    "7176512071": {
+      "id": 7176512071,
+      "name": "Ali",
+      "username": "Tirr86",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 11:19:50",
+      "banned": false
     }
   },
   "orders": {}
