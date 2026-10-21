@@ -4930,6 +4930,39 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 21:31:07",
       "banned": false
+    },
+    "5981722563": {
+      "id": 5981722563,
+      "name": ".",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:32:49",
+      "banned": false
+    },
+    "6835339053": {
+      "id": 6835339053,
+      "name": "Elcapoo",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:33:44",
+      "banned": false
+    },
+    "7228050729": {
+      "id": 7228050729,
+      "name": "Ab",
+      "username": "A20b01_ka",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:34:00",
+      "banned": false
     }
   },
   "orders": {}
