@@ -3665,6 +3665,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 01:16:50",
       "banned": false
+    },
+    "8669164548": {
+      "id": 8669164548,
+      "name": "حمید",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 02:06:45",
+      "banned": false
     }
   },
   "orders": {}
