@@ -4809,6 +4809,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 21:20:55",
       "banned": false
+    },
+    "6852312765": {
+      "id": 6852312765,
+      "name": "ᵐᵃʰᵈᶦ",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:22:34",
+      "banned": false
+    },
+    "7848363981": {
+      "id": 7848363981,
+      "name": "071",
+      "username": "farshidtizoo",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:23:50",
+      "banned": false
     }
   },
   "orders": {}
