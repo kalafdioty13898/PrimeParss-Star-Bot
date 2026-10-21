@@ -29,7 +29,7 @@
       "id": 8863525416,
       "name": "S",
       "username": "Setare_jjonz",
-      "refs": 6,
+      "refs": 7,
       "stars": 0,
       "welcome_claimed": false,
       "pending_ref": null,
@@ -4291,6 +4291,17 @@
       "welcome_claimed": false,
       "pending_ref": "8863525416",
       "joined": "2026-10-21 18:01:07",
+      "banned": false
+    },
+    "8846167567": {
+      "id": 8846167567,
+      "name": "ایدین",
+      "username": "Hamishegiuo",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-21 18:08:22",
       "banned": false
     }
   },
