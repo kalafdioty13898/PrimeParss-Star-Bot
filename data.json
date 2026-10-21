@@ -4908,6 +4908,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 21:28:03",
       "banned": false
+    },
+    "7399488466": {
+      "id": 7399488466,
+      "name": "Amirali",
+      "username": "Amirali7888",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:31:01",
+      "banned": false
+    },
+    "1680395280": {
+      "id": 1680395280,
+      "name": "Âmir",
+      "username": "Amir_rey2000",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 21:31:07",
+      "banned": false
     }
   },
   "orders": {}
