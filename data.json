@@ -4072,6 +4072,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 12:10:07",
       "banned": false
+    },
+    "8980922147": {
+      "id": 8980922147,
+      "name": "Mahan",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 12:14:21",
+      "banned": false
     }
   },
   "orders": {}
