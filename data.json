@@ -3775,6 +3775,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 04:51:45",
       "banned": false
+    },
+    "8337818436": {
+      "id": 8337818436,
+      "name": "Rize",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 04:57:29",
+      "banned": false
     }
   },
   "orders": {}
