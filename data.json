@@ -5304,6 +5304,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-21 22:20:42",
       "banned": false
+    },
+    "7709656911": {
+      "id": 7709656911,
+      "name": "Sh",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-21 22:24:39",
+      "banned": false
     }
   },
   "orders": {}
