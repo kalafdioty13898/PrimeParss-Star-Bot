@@ -6855,6 +6855,17 @@
       "pending_ref": null,
       "joined": "2026-10-22 21:26:44",
       "banned": false
+    },
+    "300343093": {
+      "id": 300343093,
+      "name": "رسول",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 21:29:24",
+      "banned": false
     }
   },
   "orders": {}
