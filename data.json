@@ -6250,6 +6250,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 11:34:41",
       "banned": false
+    },
+    "97505619": {
+      "id": 97505619,
+      "name": "Parsa",
+      "username": "parsa_sgh",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 11:38:13",
+      "banned": false
     }
   },
   "orders": {}
