@@ -5986,6 +5986,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 07:56:57",
       "banned": false
+    },
+    "8473336618": {
+      "id": 8473336618,
+      "name": "mahdi",
+      "username": "Mhdi504",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 08:02:46",
+      "banned": false
     }
   },
   "orders": {}
