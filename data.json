@@ -5876,6 +5876,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 07:13:22",
       "banned": false
+    },
+    "6432386119": {
+      "id": 6432386119,
+      "name": "Haji",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 07:14:22",
+      "banned": false
     }
   },
   "orders": {}
