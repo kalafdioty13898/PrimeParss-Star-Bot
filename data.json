@@ -7141,6 +7141,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 22:48:02",
       "banned": false
+    },
+    "2058832168": {
+      "id": 2058832168,
+      "name": "آلف",
+      "username": "shochti",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 22:52:08",
+      "banned": false
     }
   },
   "orders": {}
