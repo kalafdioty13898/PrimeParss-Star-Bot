@@ -6184,6 +6184,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 09:56:20",
       "banned": false
+    },
+    "7489189880": {
+      "id": 7489189880,
+      "name": "Abas",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 09:56:59",
+      "banned": false
     }
   },
   "orders": {}
