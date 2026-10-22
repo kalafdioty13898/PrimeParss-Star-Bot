@@ -6569,6 +6569,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 18:07:04",
       "banned": false
+    },
+    "2145640564": {
+      "id": 2145640564,
+      "name": "🤍",
+      "username": "M_80550",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 18:21:23",
+      "banned": false
+    },
+    "8214870379": {
+      "id": 8214870379,
+      "name": "M",
+      "username": "Maaatiiiiiiii",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 18:22:10",
+      "banned": false
     }
   },
   "orders": {}
