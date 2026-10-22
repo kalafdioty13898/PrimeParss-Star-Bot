@@ -6481,6 +6481,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 15:16:56",
       "banned": false
+    },
+    "6864879832": {
+      "id": 6864879832,
+      "name": "محمد",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 16:37:47",
+      "banned": false
     }
   },
   "orders": {}
