@@ -5491,6 +5491,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 00:26:19",
       "banned": false
+    },
+    "1501160262": {
+      "id": 1501160262,
+      "name": "Dot",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 00:27:26",
+      "banned": false
     }
   },
   "orders": {}
