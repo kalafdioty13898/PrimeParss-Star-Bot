@@ -5766,6 +5766,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 06:03:54",
       "banned": false
+    },
+    "5015953982": {
+      "id": 5015953982,
+      "name": "Komea",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 06:14:12",
+      "banned": false
     }
   },
   "orders": {}
