@@ -7075,6 +7075,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 22:13:35",
       "banned": false
+    },
+    "5970721227": {
+      "id": 5970721227,
+      "name": "majid",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 22:29:19",
+      "banned": false
     }
   },
   "orders": {}
