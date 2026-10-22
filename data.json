@@ -6558,6 +6558,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 17:44:06",
       "banned": false
+    },
+    "2048554402": {
+      "id": 2048554402,
+      "name": "Arn",
+      "username": "arn856",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 18:07:04",
+      "banned": false
     }
   },
   "orders": {}
