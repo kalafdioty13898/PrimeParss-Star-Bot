@@ -6261,6 +6261,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 11:38:13",
       "banned": false
+    },
+    "8760493299": {
+      "id": 8760493299,
+      "name": "hell",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 11:47:13",
+      "banned": false
     }
   },
   "orders": {}
