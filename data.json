@@ -2911,7 +2911,7 @@
       "id": 8685199567,
       "name": "Porya",
       "username": "Porya1477",
-      "refs": 0,
+      "refs": 1,
       "stars": 5,
       "welcome_claimed": true,
       "pending_ref": "8863525416",
@@ -6643,7 +6643,7 @@
       "refs": 0,
       "stars": 0,
       "welcome_claimed": false,
-      "pending_ref": "8685199567",
+      "pending_ref": null,
       "joined": "2026-10-22 18:59:27",
       "banned": false
     },
