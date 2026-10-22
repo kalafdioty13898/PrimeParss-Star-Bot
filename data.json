@@ -6756,6 +6756,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 20:12:05",
       "banned": false
+    },
+    "8558053358": {
+      "id": 8558053358,
+      "name": "Ss",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 20:15:49",
+      "banned": false
     }
   },
   "orders": {}
