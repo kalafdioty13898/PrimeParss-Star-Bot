@@ -5777,6 +5777,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 06:14:12",
       "banned": false
+    },
+    "6862359352": {
+      "id": 6862359352,
+      "name": "m",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 06:28:56",
+      "banned": false
+    },
+    "8297167526": {
+      "id": 8297167526,
+      "name": "♡",
+      "username": "m_lisa40",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 06:29:09",
+      "banned": false
     }
   },
   "orders": {}
