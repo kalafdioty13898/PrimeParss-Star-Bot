@@ -6591,6 +6591,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 18:22:10",
       "banned": false
+    },
+    "7944766082": {
+      "id": 7944766082,
+      "name": "Ali.b",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 18:23:32",
+      "banned": false
     }
   },
   "orders": {}
