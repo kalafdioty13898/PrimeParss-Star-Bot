@@ -6129,6 +6129,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 09:08:34",
       "banned": false
+    },
+    "6441879462": {
+      "id": 6441879462,
+      "name": "Isabag",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 09:11:12",
+      "banned": false
     }
   },
   "orders": {}
