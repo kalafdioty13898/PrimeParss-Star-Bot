@@ -6635,6 +6635,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 18:58:12",
       "banned": false
+    },
+    "8600457780": {
+      "id": 8600457780,
+      "name": "اریا",
+      "username": "Rozh_85_85",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8685199567",
+      "joined": "2026-10-22 18:59:27",
+      "banned": false
+    },
+    "8696302994": {
+      "id": 8696302994,
+      "name": "Dl",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8685199567",
+      "joined": "2026-10-22 19:00:36",
+      "banned": false
     }
   },
   "orders": {}
