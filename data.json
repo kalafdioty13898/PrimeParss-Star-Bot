@@ -5645,6 +5645,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 03:47:26",
       "banned": false
+    },
+    "8130420348": {
+      "id": 8130420348,
+      "name": "Amir",
+      "username": "Ahmadkaeydi",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 04:05:37",
+      "banned": false
     }
   },
   "orders": {}
