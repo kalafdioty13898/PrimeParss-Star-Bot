@@ -5920,6 +5920,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 07:17:26",
       "banned": false
+    },
+    "8935388400": {
+      "id": 8935388400,
+      "name": "21484",
+      "username": "Hadi658",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 07:28:29",
+      "banned": false
     }
   },
   "orders": {}
