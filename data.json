@@ -6239,6 +6239,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 11:28:59",
       "banned": false
+    },
+    "8601386833": {
+      "id": 8601386833,
+      "name": "BUL",
+      "username": "Gdfhutd",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 11:34:41",
+      "banned": false
     }
   },
   "orders": {}
