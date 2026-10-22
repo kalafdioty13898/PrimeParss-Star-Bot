@@ -5810,6 +5810,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 06:54:05",
       "banned": false
+    },
+    "8835791395": {
+      "id": 8835791395,
+      "name": "Sina",
+      "username": "viytgsrt",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 07:00:36",
+      "banned": false
     }
   },
   "orders": {}
