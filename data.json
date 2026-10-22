@@ -6294,6 +6294,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 12:27:14",
       "banned": false
+    },
+    "7283711315": {
+      "id": 7283711315,
+      "name": "ava",
+      "username": "Avaaaaaa44",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 12:38:02",
+      "banned": false
     }
   },
   "orders": {}
