@@ -7020,6 +7020,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 21:52:30",
       "banned": false
+    },
+    "8237659352": {
+      "id": 8237659352,
+      "name": "فردین",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 21:55:20",
+      "banned": false
     }
   },
   "orders": {}
