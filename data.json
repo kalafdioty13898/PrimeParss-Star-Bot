@@ -7009,6 +7009,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 21:48:18",
       "banned": false
+    },
+    "8156620750": {
+      "id": 8156620750,
+      "name": "Klm",
+      "username": "Jansnow12",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 21:52:30",
+      "banned": false
     }
   },
   "orders": {}
