@@ -5997,6 +5997,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 08:02:46",
       "banned": false
+    },
+    "7429107280": {
+      "id": 7429107280,
+      "name": "Askar",
+      "username": "Askar_jalali",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 08:05:21",
+      "banned": false
     }
   },
   "orders": {}
