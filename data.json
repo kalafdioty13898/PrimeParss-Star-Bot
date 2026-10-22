@@ -6338,6 +6338,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 13:22:03",
       "banned": false
+    },
+    "273010047": {
+      "id": 273010047,
+      "name": "Sori",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 13:35:44",
+      "banned": false
     }
   },
   "orders": {}
