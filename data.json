@@ -7064,6 +7064,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-22 22:06:52",
       "banned": false
+    },
+    "1078639267": {
+      "id": 1078639267,
+      "name": "Alireza",
+      "username": "Ali_arfa",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-22 22:13:35",
+      "banned": false
     }
   },
   "orders": {}
