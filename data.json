@@ -8648,6 +8648,17 @@
       "pending_ref": null,
       "joined": "2026-10-23 22:08:33",
       "banned": false
+    },
+    "5437118652": {
+      "id": 5437118652,
+      "name": "mehdi",
+      "username": "Mehdi0sm",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 22:12:52",
+      "banned": false
     }
   },
   "orders": {}
