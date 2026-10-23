@@ -7383,6 +7383,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 04:18:46",
       "banned": false
+    },
+    "8395661454": {
+      "id": 8395661454,
+      "name": "ARMIN",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 04:28:55",
+      "banned": false
     }
   },
   "orders": {}
