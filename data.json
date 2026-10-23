@@ -7900,6 +7900,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 11:37:14",
       "banned": false
+    },
+    "8429225165": {
+      "id": 8429225165,
+      "name": ".",
+      "username": "Shhjlyp",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 12:44:46",
+      "banned": false
     }
   },
   "orders": {}
