@@ -8505,6 +8505,17 @@
       "pending_ref": null,
       "joined": "2026-10-23 19:03:17",
       "banned": false
+    },
+    "8185954342": {
+      "id": 8185954342,
+      "name": "MA",
+      "username": "Amiraliii5050",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 19:09:49",
+      "banned": false
     }
   },
   "orders": {}
