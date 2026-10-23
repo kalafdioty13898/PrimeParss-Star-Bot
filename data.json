@@ -8626,6 +8626,17 @@
       "pending_ref": null,
       "joined": "2026-10-23 20:57:47",
       "banned": false
+    },
+    "8507996532": {
+      "id": 8507996532,
+      "name": ":)",
+      "username": "mamali_2662",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-23 22:00:27",
+      "banned": false
     }
   },
   "orders": {}
