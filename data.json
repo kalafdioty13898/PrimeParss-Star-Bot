@@ -7603,6 +7603,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 06:48:15",
       "banned": false
+    },
+    "7739625338": {
+      "id": 7739625338,
+      "name": "R",
+      "username": "Room12051",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 07:10:02",
+      "banned": false
     }
   },
   "orders": {}
