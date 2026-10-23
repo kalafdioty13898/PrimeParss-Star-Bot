@@ -8538,6 +8538,28 @@
       "pending_ref": null,
       "joined": "2026-10-23 19:22:40",
       "banned": false
+    },
+    "8535057357": {
+      "id": 8535057357,
+      "name": "Ma",
+      "username": "Mydcnxf",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 19:26:03",
+      "banned": false
+    },
+    "7182642841": {
+      "id": 7182642841,
+      "name": "D.m.m",
+      "username": "Muhammed20088",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8535057357",
+      "joined": "2026-10-23 19:26:42",
+      "banned": false
     }
   },
   "orders": {}
