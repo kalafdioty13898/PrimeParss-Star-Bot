@@ -8373,6 +8373,50 @@
       "pending_ref": null,
       "joined": "2026-10-23 18:33:48",
       "banned": false
+    },
+    "6733017468": {
+      "id": 6733017468,
+      "name": "Po",
+      "username": "RGpwixgla",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:57:17",
+      "banned": false
+    },
+    "8650475432": {
+      "id": 8650475432,
+      "name": "Arya",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:57:40",
+      "banned": false
+    },
+    "6318164423": {
+      "id": 6318164423,
+      "name": "Houman",
+      "username": "Houmaan2514",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:58:08",
+      "banned": false
+    },
+    "5221521633": {
+      "id": 5221521633,
+      "name": "𝒜𝓂𝒾𝓇𝒶𝓁𝒾",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:58:26",
+      "banned": false
     }
   },
   "orders": {}
