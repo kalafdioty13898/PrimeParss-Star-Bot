@@ -7306,6 +7306,28 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 02:09:43",
       "banned": false
+    },
+    "8435628953": {
+      "id": 8435628953,
+      "name": ".",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 02:47:07",
+      "banned": false
+    },
+    "457540645": {
+      "id": 457540645,
+      "name": "....",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 02:48:04",
+      "banned": false
     }
   },
   "orders": {}
