@@ -7966,6 +7966,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 14:20:53",
       "banned": false
+    },
+    "6043587573": {
+      "id": 6043587573,
+      "name": "T. Sh",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 14:32:11",
+      "banned": false
     }
   },
   "orders": {}
