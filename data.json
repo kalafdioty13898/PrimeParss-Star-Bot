@@ -8593,6 +8593,17 @@
       "pending_ref": null,
       "joined": "2026-10-23 20:02:23",
       "banned": false
+    },
+    "7305489836": {
+      "id": 7305489836,
+      "name": "F",
+      "username": "IlsaT7lger_ar",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-23 20:21:09",
+      "banned": false
     }
   },
   "orders": {}
