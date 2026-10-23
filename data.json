@@ -8197,6 +8197,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 18:08:25",
       "banned": false
+    },
+    "8986007183": {
+      "id": 8986007183,
+      "name": "Kh",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:10:34",
+      "banned": false
     }
   },
   "orders": {}
