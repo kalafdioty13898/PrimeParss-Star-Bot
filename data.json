@@ -8263,6 +8263,28 @@
       "pending_ref": null,
       "joined": "2026-10-23 18:17:15",
       "banned": false
+    },
+    "7002285411": {
+      "id": 7002285411,
+      "name": "HIRBOD",
+      "username": "H_irbodiii19",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:19:09",
+      "banned": false
+    },
+    "7793976182": {
+      "id": 7793976182,
+      "name": "Ati",
+      "username": "msaatena",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:19:35",
+      "banned": false
     }
   },
   "orders": {}
