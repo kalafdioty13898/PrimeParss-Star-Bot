@@ -7801,6 +7801,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 09:35:22",
       "banned": false
+    },
+    "7839996430": {
+      "id": 7839996430,
+      "name": "♠",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 09:42:27",
+      "banned": false
     }
   },
   "orders": {}
