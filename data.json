@@ -7339,6 +7339,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 03:09:39",
       "banned": false
+    },
+    "8342325344": {
+      "id": 8342325344,
+      "name": "Ali",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 03:14:01",
+      "banned": false
     }
   },
   "orders": {}
