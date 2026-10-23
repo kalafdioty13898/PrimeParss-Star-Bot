@@ -7779,6 +7779,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 08:49:48",
       "banned": false
+    },
+    "6805922139": {
+      "id": 6805922139,
+      "name": "Amo_bid",
+      "username": "Amo_bid",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 09:20:20",
+      "banned": false
     }
   },
   "orders": {}
