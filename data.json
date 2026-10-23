@@ -8230,6 +8230,39 @@
       "pending_ref": null,
       "joined": "2026-10-23 18:14:12",
       "banned": false
+    },
+    "8840325227": {
+      "id": 8840325227,
+      "name": "...",
+      "username": "sasan_78780",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:16:42",
+      "banned": false
+    },
+    "1208920219": {
+      "id": 1208920219,
+      "name": "•A•",
+      "username": "movsga",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:16:47",
+      "banned": false
+    },
+    "8243412749": {
+      "id": 8243412749,
+      "name": "Ilia",
+      "username": "Iliall1234",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:17:15",
+      "banned": false
     }
   },
   "orders": {}
