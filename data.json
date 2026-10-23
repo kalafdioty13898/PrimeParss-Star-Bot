@@ -7218,6 +7218,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 00:32:58",
       "banned": false
+    },
+    "8954329937": {
+      "id": 8954329937,
+      "name": "آشنا",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 00:35:51",
+      "banned": false
     }
   },
   "orders": {}
