@@ -7416,6 +7416,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 04:39:48",
       "banned": false
+    },
+    "2081496973": {
+      "id": 2081496973,
+      "name": "Vivi",
+      "username": "Viviboyy",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 05:07:40",
+      "banned": false
     }
   },
   "orders": {}
