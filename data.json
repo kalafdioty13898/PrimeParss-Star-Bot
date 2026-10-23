@@ -8659,6 +8659,17 @@
       "pending_ref": null,
       "joined": "2026-10-23 22:12:52",
       "banned": false
+    },
+    "7875286190": {
+      "id": 7875286190,
+      "name": "امیر",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-23 22:52:21",
+      "banned": false
     }
   },
   "orders": {}
