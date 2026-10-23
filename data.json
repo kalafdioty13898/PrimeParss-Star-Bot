@@ -8692,6 +8692,17 @@
       "pending_ref": null,
       "joined": "2026-10-23 23:30:29",
       "banned": false
+    },
+    "8600592401": {
+      "id": 8600592401,
+      "name": "𝐏𝐎𝐎𝐑𝐈𝐀",
+      "username": "userPOORiA",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 23:48:23",
+      "banned": false
     }
   },
   "orders": {}
