@@ -7559,6 +7559,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 06:41:33",
       "banned": false
+    },
+    "7896768317": {
+      "id": 7896768317,
+      "name": ".",
+      "username": "omid_wwa",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 06:43:34",
+      "banned": false
     }
   },
   "orders": {}
