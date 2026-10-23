@@ -8186,6 +8186,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 18:04:00",
       "banned": false
+    },
+    "8671427425": {
+      "id": 8671427425,
+      "name": "Cayuo",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 18:08:25",
+      "banned": false
     }
   },
   "orders": {}
