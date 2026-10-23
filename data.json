@@ -7526,6 +7526,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 06:30:46",
       "banned": false
+    },
+    "7718362833": {
+      "id": 7718362833,
+      "name": "Ail",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 06:37:33",
+      "banned": false
     }
   },
   "orders": {}
