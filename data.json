@@ -8401,8 +8401,8 @@
       "name": "Houman",
       "username": "Houmaan2514",
       "refs": 0,
-      "stars": 0,
-      "welcome_claimed": false,
+      "stars": 5,
+      "welcome_claimed": true,
       "pending_ref": null,
       "joined": "2026-10-23 18:58:08",
       "banned": false
@@ -8412,10 +8412,76 @@
       "name": "𝒜𝓂𝒾𝓇𝒶𝓁𝒾",
       "username": "",
       "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:58:26",
+      "banned": false
+    },
+    "8325370517": {
+      "id": 8325370517,
+      "name": "Re",
+      "username": "Hrezat0",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:58:58",
+      "banned": false
+    },
+    "6812108492": {
+      "id": 6812108492,
+      "name": "Pouria",
+      "username": "Pouriajay",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "6733017468",
+      "joined": "2026-10-23 18:59:08",
+      "banned": false
+    },
+    "7282893962": {
+      "id": 7282893962,
+      "name": "Parsa.M",
+      "username": "parsamadah",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:59:29",
+      "banned": false
+    },
+    "8631513755": {
+      "id": 8631513755,
+      "name": "saman",
+      "username": "saman_f00",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8840325227",
+      "joined": "2026-10-23 18:59:38",
+      "banned": false
+    },
+    "8425983522": {
+      "id": 8425983522,
+      "name": "Parsa",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 19:00:15",
+      "banned": false
+    },
+    "6103198202": {
+      "id": 6103198202,
+      "name": "H",
+      "username": "habefti",
+      "refs": 0,
       "stars": 0,
       "welcome_claimed": false,
       "pending_ref": null,
-      "joined": "2026-10-23 18:58:26",
+      "joined": "2026-10-23 19:00:16",
       "banned": false
     }
   },
