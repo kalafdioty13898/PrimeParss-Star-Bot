@@ -8543,7 +8543,7 @@
       "id": 8535057357,
       "name": "Ma",
       "username": "Mydcnxf",
-      "refs": 0,
+      "refs": 1,
       "stars": 5,
       "welcome_claimed": true,
       "pending_ref": null,
@@ -8555,9 +8555,9 @@
       "name": "D.m.m",
       "username": "Muhammed20088",
       "refs": 0,
-      "stars": 0,
-      "welcome_claimed": false,
-      "pending_ref": "8535057357",
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
       "joined": "2026-10-23 19:26:42",
       "banned": false
     }
