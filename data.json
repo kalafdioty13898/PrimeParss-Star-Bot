@@ -7702,6 +7702,17 @@
       "pending_ref": "8863525416",
       "joined": "2026-10-23 08:12:35",
       "banned": false
+    },
+    "8807015324": {
+      "id": 8807015324,
+      "name": "Ali",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "8863525416",
+      "joined": "2026-10-23 08:14:24",
+      "banned": false
     }
   },
   "orders": {}
