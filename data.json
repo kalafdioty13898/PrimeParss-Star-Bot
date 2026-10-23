@@ -8224,7 +8224,7 @@
       "id": 2043304817,
       "name": "Q",
       "username": "Fycscr",
-      "refs": 1,
+      "refs": 2,
       "stars": 5,
       "welcome_claimed": true,
       "pending_ref": null,
@@ -8313,10 +8313,32 @@
       "name": "Elios",
       "username": "",
       "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:28:16",
+      "banned": false
+    },
+    "6318693592": {
+      "id": 6318693592,
+      "name": "¿",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 18:28:37",
+      "banned": false
+    },
+    "6943998494": {
+      "id": 6943998494,
+      "name": "M",
+      "username": "me_hdi_s",
+      "refs": 0,
       "stars": 0,
       "welcome_claimed": false,
       "pending_ref": null,
-      "joined": "2026-10-23 18:28:16",
+      "joined": "2026-10-23 18:30:16",
       "banned": false
     }
   },
