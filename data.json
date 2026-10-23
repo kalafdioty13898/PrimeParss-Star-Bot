@@ -8681,6 +8681,17 @@
       "pending_ref": null,
       "joined": "2026-10-23 23:23:02",
       "banned": false
+    },
+    "7025342261": {
+      "id": 7025342261,
+      "name": "Arash",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 23:30:29",
+      "banned": false
     }
   },
   "orders": {}
