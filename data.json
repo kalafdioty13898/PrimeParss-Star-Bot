@@ -8615,6 +8615,17 @@
       "pending_ref": null,
       "joined": "2026-10-23 20:31:35",
       "banned": false
+    },
+    "6517147736": {
+      "id": 6517147736,
+      "name": "Red",
+      "username": "risenred",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-23 20:57:47",
+      "banned": false
     }
   },
   "orders": {}
