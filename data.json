@@ -8923,6 +8923,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 11:59:25",
       "banned": false
+    },
+    "2146230820": {
+      "id": 2146230820,
+      "name": "bod",
+      "username": "woas_bod",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 14:49:59",
+      "banned": false
     }
   },
   "orders": {}
