@@ -3946,8 +3946,8 @@
       "name": "Ba",
       "username": "",
       "refs": 0,
-      "stars": 0,
-      "welcome_claimed": false,
+      "stars": 5,
+      "welcome_claimed": true,
       "pending_ref": "8863525416",
       "joined": "2026-10-21 10:39:34",
       "banned": false
