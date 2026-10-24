@@ -8879,6 +8879,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 11:09:52",
       "banned": false
+    },
+    "140589329": {
+      "id": 140589329,
+      "name": "E-D-D",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 11:15:38",
+      "banned": false
     }
   },
   "orders": {}
