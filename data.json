@@ -8989,6 +8989,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 19:27:06",
       "banned": false
+    },
+    "8875725970": {
+      "id": 8875725970,
+      "name": "A",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 20:03:48",
+      "banned": false
     }
   },
   "orders": {}
