@@ -8890,6 +8890,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 11:15:38",
       "banned": false
+    },
+    "8523644986": {
+      "id": 8523644986,
+      "name": "REzA",
+      "username": "King_sabze_14",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 11:29:20",
+      "banned": false
     }
   },
   "orders": {}
