@@ -9011,6 +9011,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 20:59:51",
       "banned": false
+    },
+    "225050491": {
+      "id": 225050491,
+      "name": "زانیار",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-24 21:50:34",
+      "banned": false
     }
   },
   "orders": {}
