@@ -9000,6 +9000,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 20:03:48",
       "banned": false
+    },
+    "8634001755": {
+      "id": 8634001755,
+      "name": ".",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-24 20:59:51",
+      "banned": false
     }
   },
   "orders": {}
