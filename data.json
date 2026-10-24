@@ -8758,6 +8758,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 06:07:13",
       "banned": false
+    },
+    "7739664589": {
+      "id": 7739664589,
+      "name": "mamad",
+      "username": "mamamd133",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 06:51:36",
+      "banned": false
     }
   },
   "orders": {}
