@@ -8742,8 +8742,8 @@
       "name": "الهام",
       "username": "she_20226",
       "refs": 0,
-      "stars": 0,
-      "welcome_claimed": false,
+      "stars": 5,
+      "welcome_claimed": true,
       "pending_ref": null,
       "joined": "2026-10-24 04:36:45",
       "banned": false
