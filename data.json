@@ -8934,6 +8934,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 14:49:59",
       "banned": false
+    },
+    "7962280280": {
+      "id": 7962280280,
+      "name": "A",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 16:15:26",
+      "banned": false
     }
   },
   "orders": {}
