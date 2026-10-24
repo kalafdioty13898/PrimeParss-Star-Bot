@@ -8725,6 +8725,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 02:45:54",
       "banned": false
+    },
+    "7442410681": {
+      "id": 7442410681,
+      "name": "parsa",
+      "username": "parsaaaaaa1",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 03:34:02",
+      "banned": false
     }
   },
   "orders": {}
