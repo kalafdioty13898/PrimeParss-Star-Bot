@@ -5981,8 +5981,8 @@
       "name": "Sam",
       "username": "Nnn7760",
       "refs": 0,
-      "stars": 0,
-      "welcome_claimed": false,
+      "stars": 5,
+      "welcome_claimed": true,
       "pending_ref": "8863525416",
       "joined": "2026-10-22 07:56:57",
       "banned": false
