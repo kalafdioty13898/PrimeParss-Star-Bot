@@ -8791,6 +8791,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 07:39:24",
       "banned": false
+    },
+    "8669163426": {
+      "id": 8669163426,
+      "name": "محمد",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-24 07:41:44",
+      "banned": false
     }
   },
   "orders": {}
