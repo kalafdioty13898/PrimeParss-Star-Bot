@@ -8714,6 +8714,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 01:58:13",
       "banned": false
+    },
+    "6694715672": {
+      "id": 6694715672,
+      "name": "-",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 02:45:54",
+      "banned": false
     }
   },
   "orders": {}
