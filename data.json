@@ -8901,6 +8901,28 @@
       "pending_ref": null,
       "joined": "2026-10-24 11:29:20",
       "banned": false
+    },
+    "1726211079": {
+      "id": 1726211079,
+      "name": "Ali",
+      "username": "MorabayeAlbaloBaKare",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 11:59:11",
+      "banned": false
+    },
+    "8859807008": {
+      "id": 8859807008,
+      "name": "God",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 11:59:25",
+      "banned": false
     }
   },
   "orders": {}
