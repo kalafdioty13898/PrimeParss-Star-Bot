@@ -8703,6 +8703,17 @@
       "pending_ref": null,
       "joined": "2026-10-23 23:48:23",
       "banned": false
+    },
+    "6141791760": {
+      "id": 6141791760,
+      "name": "S",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-24 01:58:13",
+      "banned": false
     }
   },
   "orders": {}
