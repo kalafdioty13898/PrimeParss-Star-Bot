@@ -9306,6 +9306,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 23:18:32",
       "banned": false
+    },
+    "7552935083": {
+      "id": 7552935083,
+      "name": "«»«»",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-25 23:23:41",
+      "banned": false
     }
   },
   "orders": {}
