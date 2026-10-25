@@ -9185,6 +9185,39 @@
       "pending_ref": null,
       "joined": "2026-10-25 13:39:20",
       "banned": false
+    },
+    "7454298861": {
+      "id": 7454298861,
+      "name": "Artin",
+      "username": "artin6678",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "6445852080",
+      "joined": "2026-10-25 15:51:53",
+      "banned": false
+    },
+    "8229388155": {
+      "id": 8229388155,
+      "name": "Artin",
+      "username": "Artin678436",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "7454298861",
+      "joined": "2026-10-25 15:52:39",
+      "banned": false
+    },
+    "8896989315": {
+      "id": 8896989315,
+      "name": "Kia",
+      "username": "Kian8812",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "7454298861",
+      "joined": "2026-10-25 15:52:56",
+      "banned": false
     }
   },
   "orders": {}
