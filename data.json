@@ -9108,6 +9108,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 10:22:36",
       "banned": false
+    },
+    "6974065258": {
+      "id": 6974065258,
+      "name": "Hesam",
+      "username": "hesam_ew",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-25 11:16:27",
+      "banned": false
     }
   },
   "orders": {}
