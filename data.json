@@ -9077,6 +9077,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 09:37:41",
       "banned": false
+    },
+    "6125281145": {
+      "id": 6125281145,
+      "name": "[ پشتیبانی ]",
+      "username": "V2raybuy_Support",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-25 09:48:17",
+      "banned": false
     }
   },
   "orders": {}
