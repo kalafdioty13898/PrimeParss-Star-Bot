@@ -9066,6 +9066,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 08:50:20",
       "banned": false
+    },
+    "8771069272": {
+      "id": 8771069272,
+      "name": "میو",
+      "username": "Bxuxkc",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-25 09:37:41",
+      "banned": false
     }
   },
   "orders": {}
