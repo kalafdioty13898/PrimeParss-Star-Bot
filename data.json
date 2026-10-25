@@ -9251,6 +9251,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 18:41:09",
       "banned": false
+    },
+    "174435046": {
+      "id": 174435046,
+      "name": "Shahin",
+      "username": "shahin_kto",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-25 18:54:03",
+      "banned": false
     }
   },
   "orders": {}
