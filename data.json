@@ -9273,6 +9273,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 19:49:56",
       "banned": false
+    },
+    "8738060473": {
+      "id": 8738060473,
+      "name": "Ehsan",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-25 20:33:21",
+      "banned": false
     }
   },
   "orders": {}
