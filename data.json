@@ -9055,6 +9055,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 08:41:04",
       "banned": false
+    },
+    "6711320140": {
+      "id": 6711320140,
+      "name": "M",
+      "username": "BiggGods",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-25 08:50:20",
+      "banned": false
     }
   },
   "orders": {}
