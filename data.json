@@ -9174,6 +9174,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 13:35:59",
       "banned": false
+    },
+    "6766943226": {
+      "id": 6766943226,
+      "name": "abas",
+      "username": "a_b_a_s_b",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-25 13:39:20",
+      "banned": false
     }
   },
   "orders": {}
