@@ -600,8 +600,8 @@
       "name": "محمد",
       "username": "Mhmmd138280",
       "refs": 0,
-      "stars": 0,
-      "welcome_claimed": false,
+      "stars": 5,
+      "welcome_claimed": true,
       "pending_ref": "8863525416",
       "joined": "2026-10-19 13:22:21",
       "banned": false
