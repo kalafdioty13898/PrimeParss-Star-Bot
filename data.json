@@ -9163,6 +9163,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 12:54:28",
       "banned": false
+    },
+    "48725903": {
+      "id": 48725903,
+      "name": "Mr_Arian",
+      "username": "MrAriann",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-25 13:35:59",
+      "banned": false
     }
   },
   "orders": {}
