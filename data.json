@@ -9,9 +9,7 @@
     "custom_max": 100,
     "convert_rate": 1,
     "force_join": true,
-    "channels": [
-      "@Prime_starzz"
-    ]
+    "channels": []
   },
   "users": {
     "8581608010": {
