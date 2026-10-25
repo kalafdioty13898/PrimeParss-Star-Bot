@@ -9262,6 +9262,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 18:54:03",
       "banned": false
+    },
+    "7936675865": {
+      "id": 7936675865,
+      "name": "Aliakbar",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-25 19:49:56",
+      "banned": false
     }
   },
   "orders": {}
