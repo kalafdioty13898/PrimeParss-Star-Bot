@@ -9099,6 +9099,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 10:13:46",
       "banned": false
+    },
+    "8346457751": {
+      "id": 8346457751,
+      "name": "رئیس",
+      "username": "iDPOJ",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-25 10:22:36",
+      "banned": false
     }
   },
   "orders": {}
