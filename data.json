@@ -9130,6 +9130,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 11:53:20",
       "banned": false
+    },
+    "8916476332": {
+      "id": 8916476332,
+      "name": "Heli",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-25 12:08:10",
+      "banned": false
     }
   },
   "orders": {}
