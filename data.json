@@ -9022,6 +9022,17 @@
       "pending_ref": null,
       "joined": "2026-10-24 21:50:34",
       "banned": false
+    },
+    "8667711180": {
+      "id": 8667711180,
+      "name": "Yu",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-25 08:12:03",
+      "banned": false
     }
   },
   "orders": {}
