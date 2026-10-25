@@ -9141,6 +9141,17 @@
       "pending_ref": null,
       "joined": "2026-10-25 12:08:10",
       "banned": false
+    },
+    "7082022566": {
+      "id": 7082022566,
+      "name": "ALIREZA",
+      "username": "Alireza_3748",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-25 12:33:40",
+      "banned": false
     }
   },
   "orders": {}
