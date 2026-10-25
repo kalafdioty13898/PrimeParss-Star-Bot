@@ -9229,6 +9229,28 @@
       "pending_ref": "7454298861",
       "joined": "2026-10-25 15:53:24",
       "banned": false
+    },
+    "7037948562": {
+      "id": 7037948562,
+      "name": "rozbe",
+      "username": "rozbe_jokar",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-25 18:40:21",
+      "banned": false
+    },
+    "1453868536": {
+      "id": 1453868536,
+      "name": "𝄞 🖤❖ طَنـیـنِ خـیـال ❖ 𝄞",
+      "username": "Tanin_khial",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-25 18:41:09",
+      "banned": false
     }
   },
   "orders": {}
