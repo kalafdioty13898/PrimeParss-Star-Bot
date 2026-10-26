@@ -9515,6 +9515,17 @@
       "pending_ref": "7693374242",
       "joined": "2026-10-26 19:10:11",
       "banned": false
+    },
+    "6120273104": {
+      "id": 6120273104,
+      "name": "Ali",
+      "username": "AlioCheraghi",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "7825655674",
+      "joined": "2026-10-26 19:11:38",
+      "banned": false
     }
   },
   "orders": {}
