@@ -9526,6 +9526,17 @@
       "pending_ref": "7825655674",
       "joined": "2026-10-26 19:11:38",
       "banned": false
+    },
+    "8988111315": {
+      "id": 8988111315,
+      "name": "pOiA",
+      "username": "Poia_astail",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-26 19:36:39",
+      "banned": false
     }
   },
   "orders": {}
