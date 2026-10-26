@@ -9383,6 +9383,17 @@
       "pending_ref": null,
       "joined": "2026-10-26 12:09:36",
       "banned": false
+    },
+    "8265981061": {
+      "id": 8265981061,
+      "name": "Mr Elyas(محدود)",
+      "username": "SHAKI_IR",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-26 13:22:30",
+      "banned": false
     }
   },
   "orders": {}
