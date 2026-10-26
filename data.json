@@ -9493,6 +9493,17 @@
       "pending_ref": null,
       "joined": "2026-10-26 18:36:40",
       "banned": false
+    },
+    "8221786046": {
+      "id": 8221786046,
+      "name": "دیار",
+      "username": "DiyarSalimi85",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-26 18:45:48",
+      "banned": false
     }
   },
   "orders": {}
