@@ -9416,6 +9416,39 @@
       "pending_ref": "7693374242",
       "joined": "2026-10-26 16:32:14",
       "banned": false
+    },
+    "5841180328": {
+      "id": 5841180328,
+      "name": "♔︎𝓟𝓼𝓪𝓻𝓮_𝓴𝓱𝓪𝓼𝓮♔︎",
+      "username": "iwmobit",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-26 18:17:24",
+      "banned": false
+    },
+    "7753271047": {
+      "id": 7753271047,
+      "name": "mehdi",
+      "username": "mehdi_45677",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "5841180328",
+      "joined": "2026-10-26 18:18:14",
+      "banned": false
+    },
+    "8234760756": {
+      "id": 8234760756,
+      "name": "shahin",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "5841180328",
+      "joined": "2026-10-26 18:18:39",
+      "banned": false
     }
   },
   "orders": {}
