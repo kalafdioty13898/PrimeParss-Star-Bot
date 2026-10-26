@@ -9317,6 +9317,28 @@
       "pending_ref": null,
       "joined": "2026-10-25 23:23:41",
       "banned": false
+    },
+    "7864891817": {
+      "id": 7864891817,
+      "name": "majnon",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-26 08:40:47",
+      "banned": false
+    },
+    "7264098452": {
+      "id": 7264098452,
+      "name": "Tart",
+      "username": "mnbvzk",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-26 08:42:02",
+      "banned": false
     }
   },
   "orders": {}
