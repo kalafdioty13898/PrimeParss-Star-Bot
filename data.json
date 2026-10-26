@@ -9394,6 +9394,17 @@
       "pending_ref": null,
       "joined": "2026-10-26 13:22:30",
       "banned": false
+    },
+    "7693374242": {
+      "id": 7693374242,
+      "name": "Meiad",
+      "username": "Meiad13",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-26 15:59:06",
+      "banned": false
     }
   },
   "orders": {}
