@@ -9361,6 +9361,17 @@
       "pending_ref": null,
       "joined": "2026-10-26 11:52:50",
       "banned": false
+    },
+    "1928632983": {
+      "id": 1928632983,
+      "name": "BATMAN",
+      "username": "Batmann1389",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-10-26 11:59:22",
+      "banned": false
     }
   },
   "orders": {}
