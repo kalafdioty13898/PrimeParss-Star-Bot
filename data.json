@@ -9548,6 +9548,17 @@
       "pending_ref": "8988111315",
       "joined": "2026-10-26 19:38:48",
       "banned": false
+    },
+    "7747224158": {
+      "id": 7747224158,
+      "name": "Amri",
+      "username": "Amirmo_56",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8988111315",
+      "joined": "2026-10-26 19:47:56",
+      "banned": false
     }
   },
   "orders": {}
