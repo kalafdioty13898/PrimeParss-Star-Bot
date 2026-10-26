@@ -9570,6 +9570,17 @@
       "pending_ref": "7693374242",
       "joined": "2026-10-26 22:03:11",
       "banned": false
+    },
+    "6417803410": {
+      "id": 6417803410,
+      "name": "A",
+      "username": "Asdsadffv",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-26 22:48:22",
+      "banned": false
     }
   },
   "orders": {}
