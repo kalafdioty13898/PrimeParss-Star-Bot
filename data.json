@@ -9405,6 +9405,17 @@
       "pending_ref": null,
       "joined": "2026-10-26 15:59:06",
       "banned": false
+    },
+    "248839363": {
+      "id": 248839363,
+      "name": ".",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "7693374242",
+      "joined": "2026-10-26 16:32:14",
+      "banned": false
     }
   },
   "orders": {}
