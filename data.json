@@ -9647,6 +9647,28 @@
       "pending_ref": "7430798194",
       "joined": "2026-10-27 13:05:52",
       "banned": false
+    },
+    "6789574823": {
+      "id": 6789574823,
+      "name": ".....",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "7693374242",
+      "joined": "2026-10-27 20:28:20",
+      "banned": false
+    },
+    "8965845907": {
+      "id": 8965845907,
+      "name": ".",
+      "username": "el23e",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "6789574823",
+      "joined": "2026-10-27 20:28:57",
+      "banned": false
     }
   },
   "orders": {}
