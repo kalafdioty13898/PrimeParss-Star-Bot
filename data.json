@@ -9625,6 +9625,28 @@
       "pending_ref": "7693374242",
       "joined": "2026-10-27 06:12:47",
       "banned": false
+    },
+    "7430798194": {
+      "id": 7430798194,
+      "name": "𝑨𝒎𝒊𝒓",
+      "username": "Amir_00q",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-27 13:04:20",
+      "banned": false
+    },
+    "8830629820": {
+      "id": 8830629820,
+      "name": "Amir",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "7430798194",
+      "joined": "2026-10-27 13:05:52",
+      "banned": false
     }
   },
   "orders": {}
