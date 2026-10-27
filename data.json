@@ -9581,6 +9581,28 @@
       "pending_ref": null,
       "joined": "2026-10-26 22:48:22",
       "banned": false
+    },
+    "8966707431": {
+      "id": 8966707431,
+      "name": "이란 갈보",
+      "username": "Straw009",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "7693374242",
+      "joined": "2026-10-26 23:59:56",
+      "banned": false
+    },
+    "8869440160": {
+      "id": 8869440160,
+      "name": "A",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "8966707431",
+      "joined": "2026-10-27 00:00:29",
+      "banned": false
     }
   },
   "orders": {}
