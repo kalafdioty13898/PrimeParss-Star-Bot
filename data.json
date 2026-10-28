@@ -9713,6 +9713,17 @@
       "pending_ref": null,
       "joined": "2026-10-28 21:02:57",
       "banned": false
+    },
+    "1152638635": {
+      "id": 1152638635,
+      "name": ".",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "7693374242",
+      "joined": "2026-10-28 21:35:36",
+      "banned": false
     }
   },
   "orders": {}
