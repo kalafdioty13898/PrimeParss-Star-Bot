@@ -9691,6 +9691,17 @@
       "pending_ref": "7693374242",
       "joined": "2026-10-28 15:21:42",
       "banned": false
+    },
+    "8891100707": {
+      "id": 8891100707,
+      "name": "Ali",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "7693374242",
+      "joined": "2026-10-28 16:18:22",
+      "banned": false
     }
   },
   "orders": {}
