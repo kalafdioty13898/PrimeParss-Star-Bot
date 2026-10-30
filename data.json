@@ -9757,6 +9757,17 @@
       "pending_ref": null,
       "joined": "2026-10-29 16:32:13",
       "banned": false
+    },
+    "8915928031": {
+      "id": 8915928031,
+      "name": ".",
+      "username": "bdifjqof",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-30 10:51:48",
+      "banned": false
     }
   },
   "orders": {}
