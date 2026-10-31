@@ -9768,6 +9768,17 @@
       "pending_ref": null,
       "joined": "2026-10-30 10:51:48",
       "banned": false
+    },
+    "9263317691": {
+      "id": 9263317691,
+      "name": "Ar",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-31 06:29:15",
+      "banned": false
     }
   },
   "orders": {}
