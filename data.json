@@ -9779,6 +9779,17 @@
       "pending_ref": null,
       "joined": "2026-10-31 06:29:15",
       "banned": false
+    },
+    "7170530302": {
+      "id": 7170530302,
+      "name": "M.",
+      "username": "Jhfvdeuui",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": "7693374242",
+      "joined": "2026-10-31 09:19:43",
+      "banned": false
     }
   },
   "orders": {}
