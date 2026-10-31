@@ -9790,6 +9790,17 @@
       "pending_ref": "7693374242",
       "joined": "2026-10-31 09:19:43",
       "banned": false
+    },
+    "1083886759": {
+      "id": 1083886759,
+      "name": "𝕬𝕸𝕿𝕽",
+      "username": "Gilliann013",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-10-31 16:15:58",
+      "banned": false
     }
   },
   "orders": {}
