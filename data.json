@@ -9823,6 +9823,17 @@
       "pending_ref": "8805381343",
       "joined": "2026-10-31 19:36:49",
       "banned": false
+    },
+    "6388243995": {
+      "id": 6388243995,
+      "name": "MHDI",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-11-01 19:09:14",
+      "banned": false
     }
   },
   "orders": {}
