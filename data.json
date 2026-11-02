@@ -9845,6 +9845,17 @@
       "pending_ref": "6388243995",
       "joined": "2026-11-02 03:14:00",
       "banned": false
+    },
+    "6986965812": {
+      "id": 6986965812,
+      "name": "🍎",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-11-02 11:13:41",
+      "banned": false
     }
   },
   "orders": {}
