@@ -9834,6 +9834,17 @@
       "pending_ref": null,
       "joined": "2026-11-01 19:09:14",
       "banned": false
+    },
+    "5922987392": {
+      "id": 5922987392,
+      "name": "Mahdi",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": "6388243995",
+      "joined": "2026-11-02 03:14:00",
+      "banned": false
     }
   },
   "orders": {}
