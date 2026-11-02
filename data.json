@@ -9862,8 +9862,8 @@
       "name": "mohammad",
       "username": "moh_lu",
       "refs": 0,
-      "stars": 0,
-      "welcome_claimed": false,
+      "stars": 5,
+      "welcome_claimed": true,
       "pending_ref": null,
       "joined": "2026-11-02 20:38:37",
       "banned": false
