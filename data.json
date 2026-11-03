@@ -9867,6 +9867,17 @@
       "pending_ref": null,
       "joined": "2026-11-02 20:38:37",
       "banned": false
+    },
+    "6678909667": {
+      "id": 6678909667,
+      "name": ".....",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-11-03 07:02:13",
+      "banned": false
     }
   },
   "orders": {}
