@@ -9889,6 +9889,17 @@
       "pending_ref": null,
       "joined": "2026-11-04 00:58:04",
       "banned": false
+    },
+    "1051928416": {
+      "id": 1051928416,
+      "name": "سجاد نصیری",
+      "username": "Sajad_nasiri",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-11-04 15:01:27",
+      "banned": false
     }
   },
   "orders": {}
