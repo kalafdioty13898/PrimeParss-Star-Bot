@@ -9922,6 +9922,17 @@
       "pending_ref": null,
       "joined": "2026-11-05 18:05:06",
       "banned": false
+    },
+    "8947531351": {
+      "id": 8947531351,
+      "name": "Maral",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-11-05 20:43:17",
+      "banned": false
     }
   },
   "orders": {}
