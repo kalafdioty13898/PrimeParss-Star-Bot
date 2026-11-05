@@ -9933,6 +9933,17 @@
       "pending_ref": null,
       "joined": "2026-11-05 20:43:17",
       "banned": false
+    },
+    "8335231925": {
+      "id": 8335231925,
+      "name": "🥊",
+      "username": "",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-11-05 21:02:27",
+      "banned": false
     }
   },
   "orders": {}
