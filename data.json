@@ -9939,8 +9939,8 @@
       "name": "🥊",
       "username": "",
       "refs": 0,
-      "stars": 0,
-      "welcome_claimed": false,
+      "stars": 5,
+      "welcome_claimed": true,
       "pending_ref": null,
       "joined": "2026-11-05 21:02:27",
       "banned": false
