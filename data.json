@@ -9944,6 +9944,17 @@
       "pending_ref": null,
       "joined": "2026-11-05 21:02:27",
       "banned": false
+    },
+    "8739987910": {
+      "id": 8739987910,
+      "name": "Amir",
+      "username": "Amirmohammad4294",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-11-06 12:59:27",
+      "banned": false
     }
   },
   "orders": {}
