@@ -9955,6 +9955,28 @@
       "pending_ref": null,
       "joined": "2026-11-06 12:59:27",
       "banned": false
+    },
+    "8052905236": {
+      "id": 8052905236,
+      "name": "ALIREZA",
+      "username": "Alirzami16",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-11-07 16:29:16",
+      "banned": false
+    },
+    "8882408410": {
+      "id": 8882408410,
+      "name": "S",
+      "username": "Moooooobmo",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-11-07 16:29:16",
+      "banned": false
     }
   },
   "orders": {}
