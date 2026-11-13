@@ -9977,6 +9977,17 @@
       "pending_ref": null,
       "joined": "2026-11-07 16:29:16",
       "banned": false
+    },
+    "9078465276": {
+      "id": 9078465276,
+      "name": "BBZ",
+      "username": "VipSubIR",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-11-13 13:10:35",
+      "banned": false
     }
   },
   "orders": {}
