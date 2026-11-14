@@ -9988,6 +9988,17 @@
       "pending_ref": null,
       "joined": "2026-11-13 13:10:35",
       "banned": false
+    },
+    "9147618305": {
+      "id": 9147618305,
+      "name": ".",
+      "username": "hbvcccgg",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-11-14 17:56:47",
+      "banned": false
     }
   },
   "orders": {}
