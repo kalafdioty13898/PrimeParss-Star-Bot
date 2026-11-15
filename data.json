@@ -9999,6 +9999,17 @@
       "pending_ref": null,
       "joined": "2026-11-14 17:56:47",
       "banned": false
+    },
+    "6375837183": {
+      "id": 6375837183,
+      "name": "🇧🇷",
+      "username": "",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-11-15 21:15:40",
+      "banned": false
     }
   },
   "orders": {}
