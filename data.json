@@ -10021,6 +10021,17 @@
       "pending_ref": null,
       "joined": "2026-11-16 05:12:59",
       "banned": false
+    },
+    "7974318654": {
+      "id": 7974318654,
+      "name": "♡",
+      "username": "ipishiam_meow",
+      "refs": 0,
+      "stars": 0,
+      "welcome_claimed": false,
+      "pending_ref": null,
+      "joined": "2026-11-16 20:31:46",
+      "banned": false
     }
   },
   "orders": {}
