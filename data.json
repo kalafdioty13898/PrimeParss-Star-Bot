@@ -8,7 +8,7 @@
     "custom_min": 50,
     "custom_max": 100,
     "convert_rate": 1,
-    "force_join": true,
+    "force_join": false,
     "channels": []
   },
   "users": {
