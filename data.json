@@ -10010,6 +10010,17 @@
       "pending_ref": null,
       "joined": "2026-11-15 21:15:40",
       "banned": false
+    },
+    "8944997841": {
+      "id": 8944997841,
+      "name": "Artin",
+      "username": "artinmoradii",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-11-16 05:12:59",
+      "banned": false
     }
   },
   "orders": {}
