@@ -10032,6 +10032,17 @@
       "pending_ref": null,
       "joined": "2026-11-16 20:31:46",
       "banned": false
+    },
+    "8946995892": {
+      "id": 8946995892,
+      "name": "Ryan",
+      "username": "Noa12p5886644426006655",
+      "refs": 0,
+      "stars": 5,
+      "welcome_claimed": true,
+      "pending_ref": null,
+      "joined": "2026-11-19 09:14:05",
+      "banned": false
     }
   },
   "orders": {}
